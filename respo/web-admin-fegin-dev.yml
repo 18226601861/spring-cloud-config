@@ -20,3 +20,6 @@ eureka:
 feign:
   hystrix:
     enabled: true
+
+my:
+  name: cyj
